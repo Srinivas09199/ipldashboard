@@ -1,0 +1,19 @@
+/* Write your CSS here */
+* {
+  font-family: 'roboto';
+  font-size: 20px;
+  color: white;
+}
+.matchCardImage {
+  width: 200px;
+}
+
+.match-card-container {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  align-items: center;
+}

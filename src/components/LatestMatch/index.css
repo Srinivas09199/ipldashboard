@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.latest-match-container {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+* {
+  font-family: 'roboto';
+  font-size: 20px;
+  color: white;
+}

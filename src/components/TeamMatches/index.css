@@ -1,0 +1,24 @@
+/* Write your CSS here */
+* {
+  font-family: 'roboto';
+}
+.bg-team-matches-container {
+  background-image: linear-gradient(to bottom, #d91c1f, #a4261d, #0f172a);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.latest-match-heading {
+  color: white;
+  font-size: 25px;
+}
+.match-card-list-container {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
